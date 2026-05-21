@@ -1,15 +1,11 @@
+    document.getElementById("estructura").innerHTML = layoutHTML;
 window.layoutHTML = `
-
 <header class="header-nav">
-
   <span>
     <h3>TIENDAS 3E --🏪 PORTAL online</h3>
   </span>
-
   <nav>
-
-    <a href="/index.html">Inicio</a>
-
+  <a href="/index.html">Inicio</a>
     <a href="/inventario/index.html">
       Inventario
     </a>
